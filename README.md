@@ -6,6 +6,4 @@
 
 ### 진행상황
 
-[ ] 01/06(화) Java/IntelliJ 준비 / MariaDB를 Docker로 설치
-
-[ ] 01/07(화) Java CRUD 프로그램(Mariadb)
+[O] 01/06(화) Java/IntelliJ 준비 / MariaDB를 Docker로 설치 / Java CRUD 프로그램(Mariadb)
